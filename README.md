@@ -44,7 +44,7 @@ I making mods / I like hacking
 ## About Me
 - Age: 13  
 - Main focus: Mods / Plugins / Games / Web  
-- Currently working on: **Gtag Mod menu idk the name**  
+- Currently working on: **HXD Client**  
 - Favorite game: **Gorilla tag, minecraft**
 
 
@@ -63,7 +63,7 @@ I making mods / I like hacking
 ---
 
 ## Projects
-- **Gtag mod menu** – idk the name yet  
+- **HXD Client** – New menu  
 
 ---
 
