@@ -47,20 +47,7 @@ I making mods / I like hacking
 - Currently working on: **Gtag Mod menu idk the name**  
 - Favorite game: **Gorilla tag, minecraft**
 
----
 
-<details>
-  <summary>GitHub Stats</summary>
-
-<p align="center">
-Replace <b>YOURUSERNAME</b>:
-
-https://github-readme-stats.vercel.app/api?username=Thenextshb 
-https://github-readme-stats.vercel.app/api/top-langs?username=Thenextshb&layout=compact  
-https://github-readme-streak-stats.herokuapp.com?user=Thenextshb
-</p>
-
-</details>
 
 ---
 
