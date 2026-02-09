@@ -1,27 +1,46 @@
+<p align="center">
+  <img src="https://media1.tenor.com/m/z2xaVRUmUS4AAAAd/gorilla-tag-rgb-monkey-rbg.gif" width="300">
+</p>
 <h1 align="center">Hello!</h1>
 
 <p align="center">
-I am <b>YourName</b> <br>
-Short description about you (developer, modder, etc.) <br>
-What you build / interests <br><br>
+I am <b>Thenextshb</b><br>
+I make games and mods<br>
+I making mods / I like hacking
+</p>
 
-<!-- Languages / Skills -->
-<b>Languages & Tools</b><br><br>
+---
 
-C# • Java • JavaScript • Python • HTML • CSS • TypeScript • Node.js
-<br><br>
+<h3 align="center">Languages & Tools</h3>
 
-Favorite game: <b>Your Favorite Game</b>
+<p align="center">
+<a href="https://www.w3schools.com/cs/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
+</a>
+<a href="https://www.java.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+</a>
+<a href="https://www.python.org" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+</a>
+<a href="https://www.w3.org/html/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+</a>
 </p>
 
 ---
 
 ## About Me
-- Age: XX
-- Programming since: XXXX
-- Main focus: (Mods, Plugins, Games, Web, etc.)
-- Currently working on: **ProjectName**
-- Goals: Short goal description
+- Age: 13  
+- Main focus: Mods / Plugins / Games / Web  
+- Currently working on: **Gtag Mod menu idk the name**  
+- Favorite game: **Gorilla tag, minecraft**
 
 ---
 
@@ -29,13 +48,13 @@ Favorite game: <b>Your Favorite Game</b>
   <summary>GitHub Stats</summary>
 
 <p align="center">
-Replace `YOURUSERNAME` below:
+Replace <b>YOURUSERNAME</b>:
 
-https://github-readme-stats.vercel.app/api?username=YOURUSERNAME  
-https://github-readme-stats.vercel.app/api/top-langs?username=YOURUSERNAME&layout=compact  
-https://github-readme-streak-stats.herokuapp.com?user=YOURUSERNAME
-
+https://github-readme-stats.vercel.app/api?username=Thenextshb 
+https://github-readme-stats.vercel.app/api/top-langs?username=Thenextshb&layout=compact  
+https://github-readme-streak-stats.herokuapp.com?user=Thenextshb
 </p>
+
 </details>
 
 ---
@@ -44,24 +63,17 @@ https://github-readme-streak-stats.herokuapp.com?user=YOURUSERNAME
   <summary>Support</summary>
 
 | Platform | Link |
-|----------|------|
-| Patreon | Your Link |
-| Ko-fi | Your Link |
-| PayPal | Your Link |
-| Other | Your Link |
+|--------|------|
+| Youtube | www.youtube.com/@ThenextshbDev |
 
 </details>
 
 ---
 
 ## Projects
-- **Project 1** – short description
-- **Project 2** – short description
-- **Project 3** – short description
+- **Gtag mod menu** – idk the name yet  
 
 ---
 
 ## Contact
-- Discord: username
-- Email: you@email.com
-- Website: yoursite.com
+- Discord: @Thenextshb  
