@@ -7,7 +7,7 @@
 <p align="center">
 I am <b>Thenextshb</b><br>
 I make games and mods<br>
-I make mods / I like hacking
+he/him
 </p>
 
 ---
