@@ -44,7 +44,7 @@ he/him
 ## About Me
 - Age: 13  
 - Main focus: Mods / Plugins / Games / Web  
-- Currently working on: **HXD Client**  
+- Currently working on: **Earth Mechs**  
 - Favorite game: **Gorilla tag, minecraft**
 
 
