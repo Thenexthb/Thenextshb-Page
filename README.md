@@ -63,7 +63,7 @@ he/him
 ---
 
 ## Projects
-- **HXD Client** – New menu  
+- **Earth Mechs** – New Game  
 
 ---
 
