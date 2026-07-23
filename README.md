@@ -68,4 +68,4 @@ he/him
 ---
 
 ## Contact
-- Discord: @Thenextshb  
+- Discord: @ThenextshbDev  
