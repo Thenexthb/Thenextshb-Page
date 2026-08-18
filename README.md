@@ -63,7 +63,8 @@ he/him
 ---
 
 ## Projects
-- **Earth Mechs** – New Game  
+- **Earth Mechs** – New Game
+- *Gorillafy** – Song playing mod menu
 
 ---
 
