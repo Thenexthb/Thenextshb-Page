@@ -64,9 +64,10 @@ he/him
 
 ## Projects
 - **Earth Mechs** – New Game
-- *Gorillafy** – Song playing mod menu
+- **Gorillafy** – Song playing mod menu
 
 ---
 
 ## Contact
-- Discord: @ThenextshbDev  
+- Discord: @Thenextshb
+   
